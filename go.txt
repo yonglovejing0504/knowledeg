@@ -1,3 +1,5 @@
 go 语言 Gin框架 接收请求后,返回各种格式的数据
 https://blog.csdn.net/qq_31683775/article/details/102871795
 https://blog.csdn.net/weixin_34242509/article/details/91394481
+小程序 如何获取从后台接收到的json中的某个值
+https://www.cnblogs.com/lll-freshman/p/11236778.html
